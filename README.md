@@ -1,2 +1,4 @@
-# primer_evento_mlsa
-Aquí te describo paso a paso como reportar tu primer evento para ascender a Beta
+# Primer evento MLSA
+*Primero quiero felicitarte por dar tu primer charla u organizar tu primer evento como MLSA, esto es solo el comienzo de un camino lleno de experiencias y sobre todo personas extraordinarias*
+## Paso 1: Inresar a la pagina oficial del programa 
+- [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/)
